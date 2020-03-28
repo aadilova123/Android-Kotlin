@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hw1onKotlin</string>
+    <string name="tv_header">Djokovic targets Grand Slam\nrecord in two seasons</string>
+    <string name="t0">AUSTRALIAN OPEN</string>
+    <string name="Reuters">Reuters</string>
+    <string name="small">Yesterday at 22:14\nUpdated 13 hours ago</string>
+    <string name="header">After winning his 17th Grand Slam at the\nAustralian Open on Sunday, Novak Djokovic is\ntargetting Roger Federers record haul of 20\nmajor titles.</string>
+    <string name="text">Djokovics 6-4 4-6 2-6 6-3 6-4 victory in a \nthriller over fifth seed Dominic Thiem drew\nhim within three slams of Roger Federers\nhaul of 20 and two behind second-placed\nRafa Nadals 19.</string>
+    <string name="t1">I think in order to have a chance and have a\ngo for the historic number one I am going to\ntry to do everything possible this season and\nnext season maximum, Djokovic said in front\nof ecstatic Serbian fans at Melbourne Park.</string>
+    <string name="bulleted_list">
+        <li>Djokovic overcomes gallant Thiem to\nwin Australian Open number eight</li>\n
+        <li>Djokovic dismisses Thiem - and once\nmore asserts Big Three dominance over next\ngeneration</li>\n
+        <li>We should stick together more than\never - Djokovic pays tribute to Bryant</li>
+    </string>
+    <string name="t2">He patted the chair umpire sarcastically\non his sneaker after dropping serve and\n congratulated him for making himself\n"famous".</string>
+</resources>
