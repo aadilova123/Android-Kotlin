@@ -1,0 +1,2 @@
+rootProject.name='FragmentInteraction'
+include ':app'
